@@ -5,5 +5,5 @@ class lib:
   def kertotaulu(self) -> None:
     for x in range(1,11):
       for y in range(1,11):
-        print(f"{x*y:4}", end="")
+        print(f"{x*y:4}", end="") #luo kertotaulun
       print()
