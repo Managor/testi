@@ -1,6 +1,6 @@
 class lib:
   def __init__(self) -> None:
-    print("Paska")
+    print("Paska") #printtaa Paska :D
 
   def kertotaulu(self) -> None:
     for x in range(1,11):
